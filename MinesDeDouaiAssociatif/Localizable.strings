@@ -1,0 +1,70 @@
+// Parse
+"PARSE_APPLICATION_ID" = "qKkxvLE6XB0uskGkJZeRec3jwApnGvr7lA3MXMmL";
+"PARSE_CLIENT_KEY" = "brcqqLxCX7qrjRPYKn37uJEitqBrUyU7Ybfd4VCH";
+"CHANNEL_NAME_ALL_USER" = "channelAllUsers";
+"CHANNEL_NAME_FI1A" = "FI1A";
+"CHANNEL_NAME_FI2A" = "FI2A";
+"CHANNEL_NAME_FI3A" = "FI3A";
+
+// Navigation Bar
+"NAVIGATION_BAR_FONT" = "HelveticaNeue-CondensedBlack";
+
+// BUTTON
+"BUTTON_FONT" = "HelveticaNeue-CondensedBlack";
+"BACKGROUND_IMAGE_CHECKBOX" = "fondBouton.png";
+"CHECKBOX_FONT" = "Arial-Gras";
+
+// TextView
+"TEXT_NO_DATA" = "Aucune information enregistrée";
+
+// API URL
+"API_URL_PRODUCTION" = "http://apipreprod.minesdedouai.fr/";
+"API_URL_DISTRIBUTION" = "http://api.minesdedouai.fr/";
+
+// Icon
+"ICON_NAME_ECOLE" = "logoEcole.png";
+"ICON_NAME_USER" = "iconUser.png";
+"ICON_NAME_ADRESS" = "iconAdresse.png";
+"ICON_NAME_PHONE" = "iconPhone.png";
+"ICON_NAME_WEB" = "iconSiteWeb.png";
+"ICON_NAME_OFFRE" = "iconOffre.png";
+"ICON_NAME_TYPE" = "iconType.png";
+"ICON_NAME_ALIAS" = "iconAdresseMail.png";
+"ICON_NAME_DESCRIPTION" = "iconDescription.png";
+"ICON_NAME_ROLE" = "iconRole.png";
+"ICON_NAME_ROOM" = "iconRoom.png";
+"ICON_NAME_BEGIN" = "iconDebutEvent.png";
+"ICON_NAME_END" = "iconFinEventGris.png";
+"ICON_NAME_EMAIL" = "iconAdresseMail.png";
+"ICON_NAME_LIEU" = "iconAdresse.png";
+"ICON_NAME_RESIDENCE" = "iconHome.png";
+"ICON_NAME_ASSOCIATION" = "iconAssociation.png";
+"ICON_NAME_PARTENAIRE" = "iconPartenaire.png";
+"ICON_NAME_CALENDAR" = "iconCalendrier.png";
+"ICON_NAME_HOME" = "iconHome.png";
+"ICON_NAME_TEXT" = "iconText.png";
+"ICON_NAME_PROMOTION" = "iconPromotion.png";
+"ICON_NAME_PROBLEM" = "iconProblem.png";
+"ICON_NAME_BDE" = "iconBDE.png";
+"ICON_NAME_BDS" = "iconBDS.png";
+"ICON_NAME_BDA" = "iconBDA.png";
+"ICON_NAME_BDH" = "iconBDH.png";
+"ICON_NAME_NOTIFICATION" = "iconNotification.png";
+"ICON_NAME_TITLE" = "iconTitle.png";
+"ICON_NAME_ADD" = "iconAdd.png";
+"ICON_NAME_DELETE" = "iconDelete.png";
+"ICON_NAME_BDD" = "iconBDD.png";
+"ICON_NAME_MATERIEL" = "iconMateriel.png";
+"ICON_NAME_RESET" = "iconReset.png";
+"ICON_NAME_DETECTION_RESEAU" = "iconDetectionReseau.png";
+"ICON_NAME_LOGICIEL" = "iconLogiciel.png";
+"ICON_NAME_TUTO" = "iconTuto.png";
+"ICON_NAME_TYPE_CONNEXION" = "iconTypeConnexion.png";
+"ICON_NAME_INSCRIPTION" = "iconInscription.png";
+"ICON_NAME_DESINSCRIPTION" = "iconDesinscription.png";
+"ICON_NAME_TO_DO" = "iconToDo.png";
+"ICON_NAME_DONE" = "iconDone.png";
+"ICON_NAME_TICKET" = "iconTicket.png";
+"ICON_NAME_ADD_TICKET" = "iconAddTicket.png";
+"ICON_NAME_AIR_MEMBER" = "iconAirMember.png";
+"ICON_NAME_AUTEUR_TICKET" = "iconAuteurTicket.png";
