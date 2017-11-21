@@ -6,13 +6,12 @@ Cette application a été développée pour le BDE et l'AIR, associations d'él�
 <p align="center">
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/EcranAccueil.jpg" />
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/MenuPrincipal.jpg" />
-  <br/>
+</p>
+<p align="center">
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/ListePartenaires.jpg" />
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/DetailsPartenaire.jpg" />
-  <br/>
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/ListeAssociationsEtClubsDansUnBureau.jpg" />
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/DetailsAssociation.jpg" />
-  <br/>
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/ListeLiensUtiles.jpg" />
   <img width="375" height="667" src="https://github.com/tneyraut/MinesDeDouaiAssociatif/blob/master/CapturesEcran/DetailsLienUtile.jpg" />
 </p>
